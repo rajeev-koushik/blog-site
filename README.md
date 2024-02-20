@@ -1,2 +1,2 @@
 # blog-site
-Building a simple blogging website with Node, Express and MongoDB
+A simple blogging website built with Node, Express and MongoDB.
